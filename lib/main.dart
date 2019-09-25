@@ -39,7 +39,7 @@ class Pessoa {
       result += "Obesidade";
       color = Colors.red[300];
     }
-    resultadof = "IMC = ${resultado.toStringAsPrecision(4)}";
+    resultadof = " ${resultado.toStringAsPrecision(4)}";
   }
 
   void classFem() {
@@ -60,7 +60,7 @@ class Pessoa {
       result += "Obesidade";
       color = Colors.red[300];
     }
-    resultadof = "IMC = ${resultado.toStringAsPrecision(4)}";
+    resultadof = "${resultado.toStringAsPrecision(4)}";
   }
 
   String classificar({double imc}) {
