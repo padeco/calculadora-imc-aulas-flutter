@@ -4,7 +4,7 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 
 
 <p align="center">
-    <img src="https://i.ibb.co/kQYmB1Y/full.png" weight="800"/>
+    <img src="https://i.ibb.co/CtTz1c9/img-IMC-CALC.png" weight="800"/>
 </p>
 
 ## Desenvolvido por
